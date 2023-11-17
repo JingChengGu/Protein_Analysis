@@ -75,7 +75,7 @@ recipes_nona
 Here we take a look at the distribution of how many grams of protein is in the recipes, the distribution average ratings, and the distribution of cooking time all on their own bar charts.
 
 ```python
-%matplotlib inline
+
 
 titles = ['Protein Distribution', 'Average Rating Distribution', 'Average Time Distribution (Minutes)']
 
@@ -101,6 +101,7 @@ for var in variables:
 ```
 
 ```python
+%matplotlib inline
 # Setting up the plotting area for histograms
 fig, axes = plt.subplots(3, 1, figsize=(12, 15)) 
 fig.subplots_adjust(hspace=0.3, wspace=0.3)
