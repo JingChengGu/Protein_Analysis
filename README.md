@@ -74,6 +74,8 @@ recipes_nona
 
 Here we take a look at the distribution of how many grams of protein is in the recipes, the distribution average ratings, and the distribution of cooking time all on their own bar charts.
 
+<iframe src="assets/plot.html" width=600 height=1000 frameBorder=0></iframe>
+
 ```python
 
 
