@@ -110,7 +110,7 @@ When looking at the scatter plot of Protein vs Average Rating, there also isn't 
 | 3-4                    |               31.0934 |                      20 |              29.7814 |               58.9369 |                      35 |              78.132  |
 | 4-5                    |               28.6202 |                      17 |              29.3303 |               54.5229 |                      35 |              70.8765 |
 
-Here we can get a better look at how protein and cooking time vary between the ratings groups. From this table, there seems to be little to no differences for protein among the rating groups, as they fluctuate minimally. However, it is pretty clear that the recipes in the 4-5 rating group have a mean, meadian, and standard deviation of cooking time. This makes sense because most people would rather not spend a longer time cooking if they don't have to.
+Here we can get a better look at how protein and cooking time vary between the ratings groups. From this table, there seems to be little to no differences for protein among the rating groups, as they fluctuate minimally. However, it is pretty clear that the recipes in the 4-5 rating group have the lowest mean, meadian, and standard deviation of cooking time. This makes sense because most people would rather not spend a longer time cooking if they don't have to.
 
 | rating_group   |    0-30 |   30-60 |   60-120 |    120+ |
 |:---------------|--------:|--------:|---------:|--------:|
